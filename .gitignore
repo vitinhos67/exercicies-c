@@ -1,0 +1,12 @@
+
+# Ignora todos os arquivos dentro das pastas.
+/*/*
+
+# Exceto pelo arquivo .gitignore
+!.gitignore
+
+# Exceto pelas pastas e arquivos com extensão .c
+!/*.c
+!*.c
+
+# Adicione outras pastas que você deseja não ignorar aqui
